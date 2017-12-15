@@ -1,0 +1,238 @@
+1	Afghanestan
+2	Albania
+3	Algeria
+4	American Samoa
+5	Andorre
+6	Angola
+7	Anguilla
+8	Antarctica
+9	Antigua and Barbuda
+10	Argentina
+11	Armenia - Hayastan
+12	Aruba
+13	Australia
+14	Azerbaycan
+15	Bahamas
+16	Bahrayn
+17	Bangladesh
+18	Barbados
+19	Belarus - Byelarus
+20	Belgique - Belgie
+21	Belize
+22	Benin
+23	Bermuda
+24	Bhutan
+25	Bolivia
+26	Bosna i Hercegovina
+27	Botswana
+28	Bouvet Island - Bouvetoya
+29	Brasil
+30	Brunei
+31	Bulgaria
+32	Burkina Faso
+33	Burma - Myanmar
+34	Burundi
+35	Cabo Verde
+36	Cameroon
+37	Canada
+38	Cayman Islands
+39	Central Africa
+40	Chad - Tchad
+41	Chile
+42	China
+43	Christmas Island
+44	Cocos Islands
+45	Colombia
+46	Comores
+47	Congo
+48	Cook Islands
+49	Costa Rica
+50	Cote d'Ivoire
+51	Croatia - Hrvatska
+52	Cuba
+53	Cyprus
+54	Czech Republic
+55	Danmark
+56	Deutschland
+57	Djibouti
+58	Dominica
+59	Ecuador
+60	Eesti
+61	Egypt
+62	El Salvador
+63	Eritrea
+64	Espana
+65	Ethiopia - Ityopiya
+66	Falkland Islands
+67	Faroyar
+68	Fiji
+69	France
+70	Gabon
+71	Gambia
+72	Georgia - Sakartvelo
+73	Ghana
+74	Gibraltar
+75	Greece - Ellas
+76	Greenland - Kalaallit Nunaat
+77	Grenada
+78	Guadaloupe
+79	Guam
+80	Guatemala
+81	Guine-Bissau
+82	Guinea Ecuatorial
+83	Guinee
+84	Guyana
+85	Guyane
+86	Haiti
+87	Heard and McDonald Islands
+88	Honduras
+89	Hong Kong
+90	India - Bharat
+91	Indian Ocean Territory
+92	Indonesia
+93	Iran
+94	Iraq
+95	Ireland
+96	Island
+97	Italia
+98	Jamaica
+99	Japan
+100	Jordan - Urdun
+101	Kampuchea
+102	Kazakhstan
+103	Kenya
+104	Kiribati
+105	Korea, North
+106	Korea, South
+107	Kuwayt
+108	Kyrgyzstan
+109	Laos
+110	Latvija
+111	Lebanon - Lubnaniyah
+112	Lesotho
+113	Liberia
+114	Libiya
+115	Liechtenstein
+116	Lietuva
+117	Luxembourg
+118	Macau
+119	Madagascar
+120	Magyarorszag
+121	Makedonija
+122	Malawi
+123	Malaysia
+124	Maldives
+125	Mali
+126	Malta
+127	Marshall Islands
+128	Martinique
+129	Mauritania - Muritaniyah
+130	Mauritius
+131	Mayotte
+132	Mexico
+133	Micronesia
+134	Mocambique
+135	Moldova
+136	Monaco
+137	Mongol Uls
+138	Montserrat
+139	Morocco - Maghrib
+140	Namibia
+141	Nauru
+142	Nederland
+143	Nederlandse Antillen
+144	Nepal
+145	New Zealand
+146	Nicaragua
+147	Niger
+148	Nigeria
+149	Niue
+150	Norfolk Island
+151	Norge
+152	Northern Mariana Islands
+153	Nouvelle-Caledonie
+154	Oman - Uman
+155	Pakistan
+156	Palau - Belau
+157	Panama
+158	Papua New Guinea
+159	Paraguay
+160	Peru
+161	Philippines - Pilipinas
+162	Pitcairn Island
+163	Polska
+164	Polynesie Francaise
+165	Portugal
+166	Puerto Rico
+167	Qatar
+168	Republica Dominicana
+169	Reunion
+170	Romania
+171	Rossiya
+172	Rwanda
+173	Saint Helena
+174	Saint Kitts &amp; Nevis
+175	Saint Lucia
+176	Saint Vincent and The Grenadines
+177	Samoa
+178	San Marino
+179	Sao Tome and Principe
+180	Saudi Arabia
+181	Schweiz - Suisse
+182	Senegal
+183	Seychelles
+184	Sierra Leone
+185	Singapore
+186	Slovakia
+187	Slovenija
+188	Solomon Islands
+189	Somalia
+190	South Africa
+191	South Georgia
+192	Sri Lanka
+193	St. Pierre et Miquelon
+194	Sudan
+195	Suomi
+196	Suriname
+197	Svalbard og Jan Mayen
+198	Sverige
+199	Swaziland
+200	Syria - Suriyah
+201	Taiwan
+202	Tajikistan
+203	Tanzania
+204	Terre Australes et Antarctiques
+205	Thailand
+206	Timor
+207	Togo
+208	Tokelau
+209	Tonga
+210	Trinidad and Tobago
+211	Tunisia - Tunis
+212	Turkiye
+213	Turkmenistan
+214	Turks and Caicos Islands
+215	Tuvalu
+216	U.S. Minor Outlying Islands
+217	Uganda
+218	Ukrayina
+219	United Arab Emirates
+220	United Kingdom
+221	United States of America
+222	Uruguay
+223	Uzbekistan
+224	Vanuatu
+225	Vatican City
+226	Venezuela
+227	Vietnam - Viet Nam
+228	Virgin Islands (UK)
+229	Virgin Islands (USA)
+230	Wallis et Futuna
+231	Western Sahara
+232	Yemen
+233	Yisrael
+234	Yugoslavia (Former)
+235	Zaire
+236	Zambia
+237	Zimbabwe
+238	Österreich
